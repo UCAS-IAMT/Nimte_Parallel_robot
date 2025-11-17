@@ -1,10 +1,10 @@
 # Nimte_Parallel_robot
 Demo video
 
-![Demo1](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/1.gif)
-
 Parallel Sorting Application System Integration
+![Demo1](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/1.gif)
 ---
+
 ![Demo2](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/2.gif)
 
 Trajectory Demonstration 1
@@ -24,3 +24,5 @@ Load Demonstration 1 (5 kg)
 ![Image](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/load2.gif)
 
 Load Demonstration 1 (5 kg)
+---
+
