@@ -13,7 +13,7 @@ demo video
 ![Demo4](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/4.gif)
 
 ---
-![Image](https://github.com/user-attachments/assets/a75a1543-96d8-4b5e-8900-b4ce6c8786fb)
+![Image](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/load1.gif)
 
 ---
-![Image](https://github.com/user-attachments/assets/4d272e4d-7196-42c5-b0d9-0f6c43361896)
+![Image](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/load2.gif)
