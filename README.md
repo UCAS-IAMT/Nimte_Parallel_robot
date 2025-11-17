@@ -5,7 +5,7 @@ demo video
 
 ---
 ![Demo2](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/2.gif)
-
+Trajectory Demonstration 1
 ---
 ![Demo3](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/3.gif)
 
