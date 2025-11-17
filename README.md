@@ -13,7 +13,7 @@ Demo video
 ---
 ![Demo3](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/3.gif)
 
-4 Load Demonstration 1 (2.5 kg)
+4 Load Demonstration (2.5 kg)
 ---
 ![Demo4](https://github.com/UCAS-IAMT/Nimte_Parallel_robot/blob/main/4.gif)
 
